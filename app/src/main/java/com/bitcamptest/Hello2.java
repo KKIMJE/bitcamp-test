@@ -10,6 +10,7 @@ public class Hello2 {
   }
   static void jueun() { 
     System.out.println("주은주은");
+    System.out.println("hhahhahha");
   }
 
   static void m1() {
