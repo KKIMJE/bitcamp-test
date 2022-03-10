@@ -6,7 +6,7 @@ public class Hello2 {
     System.out.println("소주마시자");
 
   }
-  static void jueun() {
+  static void jueun() { 
     System.out.println("주은주은");
   }
 }
