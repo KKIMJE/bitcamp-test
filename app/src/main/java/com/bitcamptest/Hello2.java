@@ -13,6 +13,11 @@ public class Hello2 {
     System.out.println("hhahhahha");
     System.out.println("hhahhahha");
     System.out.println("hhahhahha");
+    System.out.println("hhahhahha");
+    System.out.println("hhahhahha");
+    System.out.println("hhahhahha");
+    System.out.println("hhahhahha");
+    System.out.println("hhahhahha");
   }
 
   static void m1() {
