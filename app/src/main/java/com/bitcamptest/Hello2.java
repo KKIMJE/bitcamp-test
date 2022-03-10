@@ -13,6 +13,8 @@ public class Hello2 {
     System.out.println("주은주은");
     System.out.println("hhahhahha");
     System.out.println("hhahhahha");
+    System.out.println("우웩");    
+
     System.out.println("hhahhahha");
     System.out.println("hhahhahha");
     System.out.println("hhahhahha");
